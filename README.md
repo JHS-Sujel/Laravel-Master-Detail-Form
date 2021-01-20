@@ -2,7 +2,7 @@
 
 Simple demo-project to add products with order, within the same form.
 
-# Project Features 
+## Project Features 
 
 ![Screenshot (203)](https://user-images.githubusercontent.com/73945266/105198886-596d6500-5b68-11eb-833d-90a9342b8dbe.png)
 
